@@ -1,0 +1,9 @@
+VERSION 12.6.1.12
+UNITS Meters Seconds
+RNSET 0
+DRAWPOS minx -264.999984 maxx 62.999988 miny -107.028192 maxy 97.41284 minz -7.62939453125e-008 maxz 63.217992 trx 0 try 0
+MOVESYS name conv
+	SYSPOS endx 1
+PROCSYS name lunapark~
+	SYSPOS endx 1
+CONTROL snaplen 15 Hours counts 4 autorep reset

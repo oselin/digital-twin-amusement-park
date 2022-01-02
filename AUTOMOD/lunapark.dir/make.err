@@ -1,0 +1,16 @@
+Processing build commands for the model lunapark...
+lunapark~model.c
+lunapark~init1.c
+p_enginea.c
+p_normala.c
+p_priority_firsta.c
+p_reada.c
+s_priority.c
+s_normal.c
+s_priority1.c
+s_normal1.c
+Linking lunapark.dll...
+   Creating library lunapark.lib and object lunapark.exp
+Generating lunapark.exe...
+        1 file copiati.
+
